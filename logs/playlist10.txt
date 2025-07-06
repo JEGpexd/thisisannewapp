@@ -11,7 +11,7 @@ https://n-121-4.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="bigbrother" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/%D7%94%D7%90%D7%97_%D7%94%D7%92%D7%93%D7%95%D7%9C_-_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%28%D7%92%D7%A8%D7%A1%D7%94_%D7%A9%D7%9C%D7%99%D7%A9%D7%99%D7%AA%29.png" group-title="ישראל", האח הגדול
 https://d3snfszc9pg25z.cloudfront.net/out/v1/11329fc2b33a4eca9a2d715c652aa167/playlist_2.m3u8?_uid=408ce74e-be81-4b97-8ab6-6fb51214049e&rK=a5&_did=dd305d4267fec3853bcf086ed2c73d971b623904
-#EXTINF:-1 tvg-chno="27" tvg-id="i24" group-title="ישראל" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/I24_logo_FINAL_BLUE-02.png", i24‎ ‎בעברית
+#EXTINF:-1 tvg-chno="27" tvg-id="i24" group-title="ישראל" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/I24_logo_FINAL_BLUE-02.png", בעברית i24
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="hidabroot" tvg-logo="https://m3u.admuspeh.my/icon/HIDABRUT%20IL.png" group-title="ישראל", ערוץ הידברות
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
