@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="11" tvg-id="kan11" tvg-logo="https://m3u.admuspeh.my/icon/CHANNEL%2012%20HD%20IL.png" group-title="ישראל", כאן 11
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="keshet12" tvg-logo="https://m3u.admuspeh.my/icon/CHANNEL%2012%20HD%20IL.png" group-title="ישראל", קשת 12
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/hdntl=exp=1678643062~acl=%2f*~data=hdntl~hmac=18c79b0af2b2719de95b2a0adb22904c97558548be9d2e7185eb045805a10abd/profileManifest.m3u8?_uid=9eb5dcb7-bbf0-4cf6-87d0-73127c4116b6&rK=a2
+#EXTINF:-1 tvg-chno="13" tvg-id="reshet13" tvg-logo="https://m3u.admuspeh.my/icon/CHANNEL%2013%20HD%20IL.png" group-title="ישראל", רשת 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="channel14" tvg-logo="https://m3u.admuspeh.my/icon/Channel%2014%20HD%20IL.png" group-title="ישראל", ערוץ 14
+https://n-121-4.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-id="channel24" tvg-logo="https://m3u.admuspeh.my/icon/24.png" group-title="ישראל", ערוץ 24
+https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="hidabroot" tvg-logo="https://m3u.admuspeh.my/icon/HIDABRUT%20IL.png" group-title="ישראל", ערוץ הידברות
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="walla_plus" tvg-logo="https://raw.githubusercontent.com/Ererr20242/Apps/main/3398205-46.jpg" group-title="ישראל", ערוץ וואלה פלוס
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="sport1" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%201%20HD%20IL.png" group-title="ישראל", ספורט 1
+http://cdn.admuspeh.my/8339/video.m3u8?token=mG6VMPVwTiTdcb2u
+#EXTINF:-1 tvg-chno="2" tvg-id="sport2" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%202%20HD%20IL.png" group-title="ישראל", ספורט 2
+http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2352/index.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="sport3" tvg-logo="https://m3u.admuspeh.my/icon/Sport%203%20HD%20IL.png" group-title="ישראל", ספורט 3
+http://cdn.admuspeh.my/8340/video.m3u8?token=mG6VMPVwTiTdcb2u
+#EXTINF:-1 tvg-chno="4" tvg-id="sport4" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%204%20HD%20IL.png" group-title="ישראל", ספורט 4
+http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2389/index.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="sport5radio" tvg-logo="https://raw.githubusercontent.com/Ererr20242/Apps/main/IMG_20240601_111156.jpg" group-title="ישראל", ספורט 5 רדיו טלוויזיה
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="sport5" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20HD%20IL.png" group-title="ישראל", ספורט 5
+http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2391/index.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="sport5live" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20LIVE%20HD%20IL.png" group-title="ישראל", ספורט 5 לייב
+http://cdn.admuspeh.my/8239/video.m3u8?token=mG6VMPVwTiTdcb2u
+#EXTINF:-1 tvg-chno="7" tvg-id="one1" tvg-logo="https://m3u.admuspeh.my/icon/ONE%20HD%20IL.png" group-title="ישראל", וואן 1
+http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2340/index.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="one2" tvg-logo="https://m3u.admuspeh.my/icon/ONE%202%20HD%20IL.png" group-title="ישראל", וואן 2
+http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2373/index.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="viva" tvg-logo="https://m3u.admuspeh.my/icon/VIVA%20HD%20IL.png" group-title="ישראל", ויוה
+http://cdn.admuspeh.my/8526/video.m3u8?token=mG6VMPVwTiTdcb2u
+#EXTINF:-1 tvg-chno="18" tvg-id="vivaplus" tvg-logo="https://m3u.admuspeh.my/icon/Viva+%20IL.png" group-title="ישראל", ויוה פלוס
+http://cdn.admuspeh.my/8372/video.m3u8?token=mG6VMPVwTiTdcb2u
+#EXTINF:-1 tvg-chno="21" tvg-id="yamtihoni" tvg-logo="https://m3u.admuspeh.my/icon/Yamtihoni%20IL.png" group-title="ישראל", הערוץ הים התיכוני
+http://cdn.admuspeh.my/8123/video.m3u8?token=mG6VMPVwTiTdcb2u
+#EXTINF:-1 tvg-chno="22" tvg-id="turkishdrama" tvg-logo="https://m3u.admuspeh.my/icon/Turkish%20Drama%20IL.png" group-title="ישראל", ערוץ הדרמות הטורקיות פלוס
+http://cdn.admuspeh.my/8722/video.m3u8?token=mG6VMPVwTiTdcb2u
+#EXTINF:-1 tvg-chno="23" tvg-id="sport5plus" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20plus%20HD.png" group-title="ישראל", ספורט 5 פלוס
+http://cdn.admuspeh.my/8141/video.m3u8?token=mG6VMPVwTiTdcb2u
+#EXTINF:-1 tvg-chno="24" tvg-id="sport5stars" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20Stars%20HD%20IL.png" group-title="ישראל", ספורט 5 סטארס
+http://cdn.admuspeh.my/8186/video.m3u8?token=mG6VMPVwTiTdcb2u
+#EXTINF:-1 tvg-chno="25" tvg-id="sport5gold" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20GOLD%20IL.png" group-title="ישראל", ספורט 5 גולד
+http://cdn.admuspeh.my/8974/video.m3u8?token=mG6VMPVwTiTdcb2u
