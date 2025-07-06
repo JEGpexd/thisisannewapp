@@ -4,7 +4,7 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u
 #EXTINF:-1 tvg-chno="12" tvg-id="keshet12" tvg-logo="https://m3u.admuspeh.my/icon/CHANNEL%2012%20HD%20IL.png" group-title="ישראל", קשת 12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/hdntl=exp=1678643062~acl=%2f*~data=hdntl~hmac=18c79b0af2b2719de95b2a0adb22904c97558548be9d2e7185eb045805a10abd/profileManifest.m3u8?_uid=9eb5dcb7-bbf0-4cf6-87d0-73127c4116b6&rK=a2
 #EXTINF:-1 tvg-chno="13" tvg-id="reshet13" tvg-logo="https://m3u.admuspeh.my/icon/CHANNEL%2013%20HD%20IL.png" group-title="ישראל", רשת 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/2/profileManifest.m3u8?_uid=d4800b36-b5e1-48c1-984f-8d0dbba8633b&rK=a2&_did=cd8fbe0e-1438-46ab-9a03-34fe6a2031b4
 #EXTINF:-1 tvg-chno="14" tvg-id="channel14" tvg-logo="https://m3u.admuspeh.my/icon/Channel%2014%20HD%20IL.png" group-title="ישראל", ערוץ 14
 https://n-121-4.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="channel24" tvg-logo="https://m3u.admuspeh.my/icon/24.png" group-title="ישראל", ערוץ 24
