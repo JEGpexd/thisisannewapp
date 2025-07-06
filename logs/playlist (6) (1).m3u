@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1  tvg-chno="1" tvg-id="Channel13" tvg-logo="" group-title="ערוץ 13", ערוץ 13
+#EXTGRP:ערוץ 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index_2.m3u8
+#EXTINF:-1  tvg-chno="2" tvg-id="BigBrotherHD" tvg-logo="" group-title="ערוץ האח הגדול", האח הגדול
+#EXTGRP:ערוץ האח הגדול
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_2.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="ch14" tvg-name="ערוץ 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Noamperetz-now14logo.png/250px-Noamperetz-now14logo.png" group-title="ערוץ 14 אופציה ראשונה", ערוץ 14 אופציה ראשונה
+#EXTGRP:ערוץ 14 אופציה ראשונה
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="ch14-2" tvg-name="ערוץ 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Noamperetz-now14logo.png/250px-Noamperetz-now14logo.png" group-title="ערוץ 14 אופציה שנייה", ערוץ 14 אופציה שנייה
+#EXTGRP:ערוץ 14 אופציה שנייה
+https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="ch14-3" tvg-name="ערוץ 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Noamperetz-now14logo.png/250px-Noamperetz-now14logo.png" group-title="ערוץ 14 אופציה שלישית", ערוץ 14 אופציה שלישית
+#EXTGRP:ערוץ 14 אופציה שלישית
+https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8?bitrate=1928000&audioId=1&videoId=8
