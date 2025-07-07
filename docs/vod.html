@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>VOD שלי</title>
+  <style>
+    body { font-family: sans-serif; background: #111; color: #fff; }
+    .item { margin: 10px; border-bottom: 1px solid #444; }
+    img { width: 100%; max-width: 300px; }
+  </style>
+</head>
+<body>
+  <h1>VOD פרטי</h1>
+  <div id="vodList"></div>
+
+  <script>
+    fetch("https://raw.githubusercontent.com/JEGpexd/thisisannewapp/refs/heads/main/logs/vod_output.json")
+      .then(res => res.json())
+      .then(data => {
+        const list = document.getElementById("vodList");
+        data.list.forEach(item => {
+          const div = document.createElement("div");
+          div.className = "item";
+          div.innerHTML = `<h3>${item.name}</h3><img src="${item.img}"><br><a href="${item.url}" target="_blank">צפה</a>`;
+          list.appendChild(div);
+        });
+      });
+  </script>
+</body>
+</html>
