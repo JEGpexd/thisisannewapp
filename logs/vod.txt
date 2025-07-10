@@ -1,0 +1,22 @@
+{
+  "list": [
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/240px-PNG_transparency_demonstration_1.png",
+      "id": 1,
+      "works": true,
+      "showtv": true
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Shaki_waterfall.jpg/320px-Shaki_waterfall.jpg",
+      "id": 2,
+      "works": true,
+      "showtv": true
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Example.jpg/240px-Example.jpg",
+      "id": 3,
+      "works": true,
+      "showtv": true
+    }
+  ]
+}
