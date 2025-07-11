@@ -1,20 +1,38 @@
 {
   "list": [
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/240px-PNG_transparency_demonstration_1.png",
-      "id": 1,
+      "label": "🎬 סרטים פופולריים",
+      "type": "popular",
       "works": true,
       "showtv": true
     },
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Shaki_waterfall.jpg/320px-Shaki_waterfall.jpg",
-      "id": 2,
+      "label": "⭐️ הכי מדורגים",
+      "type": "top_rated",
       "works": true,
       "showtv": true
     },
     {
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Example.jpg/240px-Example.jpg",
-      "id": 3,
+      "label": "🎞️ בקולנוע עכשיו",
+      "type": "now_playing",
+      "works": true,
+      "showtv": true
+    },
+    {
+      "label": "📺 סדרות פופולריות",
+      "type": "tv/popular",
+      "works": true,
+      "showtv": true
+    },
+    {
+      "label": "📈 סדרות מדורגות",
+      "type": "tv/top_rated",
+      "works": true,
+      "showtv": true
+    },
+    {
+      "label": "🎯 סדרות משודרות עכשיו",
+      "type": "tv/on_the_air",
       "works": true,
       "showtv": true
     }
