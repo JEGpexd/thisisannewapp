@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-chno="11" tvg-id="kan11" tvg-logo="https://m3u.admuspeh.my/icon/Kan%2011%20IL.png" group-title="ישראל", כאן 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="keshet12" tvg-logo="https://m3u.admuspeh.my/icon/CHANNEL%2012%20HD%20IL.png" group-title="ישראל", קשת 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/hdntl=exp=1678643062~acl=%2f*~data=hdntl~hmac=18c79b0af2b2719de95b2a0adb22904c97558548be9d2e7185eb045805a10abd/profileManifest.m3u8?_uid=9eb5dcb7-bbf0-4cf6-87d0-73127c4116b6&rK=a2
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=0-1800&hdnea=st%3D1752609947%7Eexp%3D1752610847%7Eacl%3D%2F*%7Ehmac%3D8a8076e7d04b557fc752ae00417de108ab55d54cf511a95e4d6411e5374c0b89&_uid=9b03912a-9f9b-4032-b947-ec3074d8e196&user_id=7cd5a231a1c886e20781e7ee004ff60a&dxu=2bf061ed-224a-4ec5-af9a-85c4144eea99&dxseg=1H0CCazk%2C2u2dWqpJ%2C2uJSJ7XC%2C4SjQuQHq%2C8WXMlc9C%2C8zfbMgtZ%2CAuqYIBU9%2CBCWAbVj2%2CBqKSTlSD%2CJU8AkUbl%2CKK7hplQ1%2CSJ72Q8AP%2CX4KBfLev%2CiexVpCEY%2ClcsgvhJa%2ClwdmGHH6%2CmWPE8VTE%2CmqZmzXw7%2CmwrUBbzI%2CnyqY6zQN%2CpSNoVd78%2Cpbu3xR6p%2CpgMtZ97K%2Ctvkcpu2F
 #EXTINF:-1 tvg-chno="13" tvg-id="reshet13" tvg-logo="https://m3u.admuspeh.my/icon/CHANNEL%2013%20HD%20IL.png" group-title="ישראל", רשת 13
 https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/2/profileManifest.m3u8?_uid=d4800b36-b5e1-48c1-984f-8d0dbba8633b&rK=a2&_did=cd8fbe0e-1438-46ab-9a03-34fe6a2031b4
 #EXTINF:-1 tvg-chno="14" tvg-id="channel14" tvg-logo="https://m3u.admuspeh.my/icon/Channel%2014%20HD%20IL.png" group-title="ישראל", ערוץ 14
