@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-chno="11" tvg-id="kan11" tvg-logo="https://m3u.admuspeh.my/icon/Kan%2011%20IL.png" group-title="ישראל", כאן 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="keshet12" tvg-logo="https://m3u.admuspeh.my/icon/CHANNEL%2012%20HD%20IL.png" group-title="ישראל", קשת 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/5/hdntl=exp=1752696931~acl=%2f*~data=hdntl~hmac=972f84fc65e1d0b6e1f95a96d0ba4cbf6f3039dbf0d66053d6220025c6a211db/profileManifest.m3u8?_uid=0bacdca7-5152-4e94-9698-00fde4ab2b00&rK=b7&_did=7b454b4ce87865cbc9b28557e8850d2a5afa5d32
+https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?hdnea=st%3D1752775081%7Eexp%3D1752775981%7Eacl%3D%2F%2a%7Ehmac%3D0677b32dade657637bcdb03b2eddc2c186576a0044b7b9e50817a0b6b9fad955
 #EXTINF:-1 tvg-chno="13" tvg-id="reshet13" tvg-logo="https://m3u.admuspeh.my/icon/CHANNEL%2013%20HD%20IL.png" group-title="ישראל", רשת 13
 https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/2/profileManifest.m3u8?_uid=d4800b36-b5e1-48c1-984f-8d0dbba8633b&rK=a2&_did=cd8fbe0e-1438-46ab-9a03-34fe6a2031b4
 #EXTINF:-1 tvg-chno="14" tvg-id="channel14" tvg-logo="https://m3u.admuspeh.my/icon/Channel%2014%20HD%20IL.png" group-title="ישראל", ערוץ 14
