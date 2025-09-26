@@ -31,6 +31,14 @@ https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2391/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="sport5live" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20LIVE%20HD%20IL.png" group-title="ישראל", ספורט 5 לייב
 http://cdn.admuspeh.my/8239/video.m3u8?token=mG6VMPVwTiTdcb2u
+#EXTINF:-1 tvg-chno="23" tvg-id="sport5plus" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20plus%20HD.png" group-title="ישראל", ספורט 5 פלוס
+http://cdn.admuspeh.my/8141/video.m3u8?token=mG6VMPVwTiTdcb2u
+#EXTINF:-1 tvg-chno="24" tvg-id="sport5stars" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20Stars%20HD%20IL.png" group-title="ישראל", ספורט 5 סטארס
+http://cdn.admuspeh.my/8186/video.m3u8?token=mG6VMPVwTiTdcb2u
+#EXTINF:-1 tvg-chno="25" tvg-id="sport5gold" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20GOLD%20IL.png" group-title="ישראל", ספורט 5 גולד
+http://cdn.admuspeh.my/8974/video.m3u8?token=mG6VMPVwTiTdcb2u
+#EXTINF:-1 tvg-chno="27" tvg-id="9035" tvg-logo="https://www.hot.net.il/UploadedImages/05_2021/5Sport4k_58.jpg" group-title="ישראל", ספורט 5 פור קיי
+http://rhsbjv7k.tvclub.xyz/iptv/MXPAXAU66DFHPR/16019/index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="one1" tvg-logo="https://m3u.admuspeh.my/icon/ONE%20HD%20IL.png" group-title="ישראל", וואן 1
 http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2340/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="one2" tvg-logo="https://m3u.admuspeh.my/icon/ONE%202%20HD%20IL.png" group-title="ישראל", וואן 2
@@ -43,13 +51,4 @@ http://cdn.admuspeh.my/8372/video.m3u8?token=mG6VMPVwTiTdcb2u
 http://cdn.admuspeh.my/8123/video.m3u8?token=mG6VMPVwTiTdcb2u
 #EXTINF:-1 tvg-chno="22" tvg-id="turkishdrama" tvg-logo="https://m3u.admuspeh.my/icon/Turkish%20Drama%20IL.png" group-title="ישראל", ערוץ הדרמות הטורקיות פלוס
 http://cdn.admuspeh.my/8722/video.m3u8?token=mG6VMPVwTiTdcb2u
-#EXTINF:-1 tvg-chno="23" tvg-id="sport5plus" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20plus%20HD.png" group-title="ישראל", ספורט 5 פלוס
-http://cdn.admuspeh.my/8141/video.m3u8?token=mG6VMPVwTiTdcb2u
-#EXTINF:-1 tvg-chno="24" tvg-id="sport5stars" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20Stars%20HD%20IL.png" group-title="ישראל", ספורט 5 סטארס
-http://cdn.admuspeh.my/8186/video.m3u8?token=mG6VMPVwTiTdcb2u
-#EXTINF:-1 tvg-chno="25" tvg-id="sport5gold" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20GOLD%20IL.png" group-title="ישראל", ספורט 5 גולד
-http://cdn.admuspeh.my/8974/video.m3u8?token=mG6VMPVwTiTdcb2u
-#EXTINF:-1 tvg-chno="26" tvg-id="kotel" tvg-logo="https://www.camelpro1995.com/wp-content/uploads/2017/05/%D7%9C%D7%95%D7%92%D7%95-%D7%94%D7%A7%D7%A8%D7%9F-%D7%9C%D7%9E%D7%95%D7%A8%D7%A9%D7%AA-%D7%94%D7%9B%D7%95%D7%AA%D7%9C-1024x512.jpg" group-title="ישראל", ערוץ הכותל
-https://cdn2.cast-tv.com/23595/Live_Kotel3_ABR/playlist.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-id="9035" tvg-logo="https://epg.pw/media/images/epg/2024/06/08/20240608032319157910_40.png" group-title="ישראל", ספורט 5 פור קיי
-http://rhsbjv7k.tvclub.xyz/iptv/MXPAXAU66DFHPR/16019/index.m3u8
+
