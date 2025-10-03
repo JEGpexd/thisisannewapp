@@ -28,7 +28,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/12249/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="sport1" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%201%20HD%20IL.png" group-title="ישראל", ספורט 1 גיבוי רביעי
 http://rhsbjv7k.tvclub.xyz/iptv/UFERDUQS58TBD3/12249/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="sport1" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%201%20HD%20IL.png" group-title="ישראל", ספורט 1 גיבוי חמישי
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/12249/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/12249/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="sport2" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%202%20HD%20IL.png" group-title="ישראל", ספורט 2
 http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2352/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="sport2" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%202%20HD%20IL.png" group-title="ישראל", ספורט 2 גיבוי ראשון
@@ -40,7 +40,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/12250/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="sport2" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%202%20HD%20IL.png" group-title="ישראל", ספורט 2 גיבוי רביעי
 http://rhsbjv7k.tvclub.xyz/iptv/UFERDUQS58TBD3/12250/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="sport2" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%202%20HD%20IL.png" group-title="ישראל", ספורט 2 גיבוי חמישי
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/12250/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/12250/index.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="sport3" tvg-logo="https://m3u.admuspeh.my/icon/Sport%203%20HD%20IL.png" group-title="ישראל", ספורט 3
 http://cdn.admuspeh.my/8340/video.m3u8?token=mG6VMPVwTiTdcb2u
 #EXTINF:-1 tvg-chno="3" tvg-id="sport3" tvg-logo="https://m3u.admuspeh.my/icon/Sport%203%20HD%20IL.png" group-title="ישראל", ספורט 3 גיבוי ראשון
@@ -52,7 +52,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/12251/index.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="sport3" tvg-logo="https://m3u.admuspeh.my/icon/Sport%203%20HD%20IL.png" group-title="ישראל", ספורט 3 גיבוי רביעי
 http://rhsbjv7k.tvclub.xyz/iptv/UFERDUQS58TBD3/12251/index.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="sport3" tvg-logo="https://m3u.admuspeh.my/icon/Sport%203%20HD%20IL.png" group-title="ישראל", ספורט 3 גיבוי חמישי
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/12251/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/12251/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="sport4" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%204%20HD%20IL.png" group-title="ישראל", ספורט 4
 http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2389/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="sport4" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%204%20HD%20IL.png" group-title="ישראל", ספורט 4 גיבוי ראשון
@@ -64,7 +64,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/2389/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="sport4" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%204%20HD%20IL.png" group-title="ישראל", ספורט 4 גיבוי רביעי
 http://rhsbjv7k.tvclub.xyz/iptv/UFERDUQS58TBD3/2389/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="sport4" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%204%20HD%20IL.png" group-title="ישראל", ספורט 4 גיבוי חמישי
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/12252/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/12252/index.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="sport5radio" tvg-logo="https://raw.githubusercontent.com/Ererr20242/Apps/main/IMG_20240601_111156.jpg" group-title="ישראל", ספורט 5 רדיו טלוויזיה
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="sport5" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20HD%20IL.png" group-title="ישראל", ספורט 5
@@ -78,7 +78,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/2341/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="sport5" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20HD%20IL.png" group-title="ישראל", ספורט 5 גיבוי רביעי
 http://rhsbjv7k.tvclub.xyz/iptv/UFERDUQS58TBD3/2341/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="sport5" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20HD%20IL.png" group-title="ישראל", ספורט 5 גיבוי חמישי
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/2341/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2341/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="sport5live" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20LIVE%20HD%20IL.png" group-title="ישראל", ספורט 5 לייב
 http://cdn.admuspeh.my/8239/video.m3u8?token=mG6VMPVwTiTdcb2u
 #EXTINF:-1 tvg-chno="6" tvg-id="sport5live" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20LIVE%20HD%20IL.png" group-title="ישראל", ספורט 5 לייב גיבוי ראשון
@@ -90,7 +90,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/2362/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="sport5live" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20LIVE%20HD%20IL.png" group-title="ישראל", ספורט 5 לייב גיבוי רביעי
 http://rhsbjv7k.tvclub.xyz/iptv/UFERDUQS58TBD3/12255/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="sport5live" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20LIVE%20HD%20IL.png" group-title="ישראל", ספורט 5 לייב גיבוי חמישי
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/2362/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2362/index.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="sport5plus" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20plus%20HD.png" group-title="ישראל", ספורט 5 פלוס
 http://cdn.admuspeh.my/8141/video.m3u8?token=mG6VMPVwTiTdcb2u
 #EXTINF:-1 tvg-chno="24" tvg-id="sport5stars" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20Stars%20HD%20IL.png" group-title="ישראל", ספורט 5 סטארס
@@ -104,7 +104,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/12232/index.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="sport5stars" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20Stars%20HD%20IL.png" group-title="ישראל", ספורט 5 סטארס גיבוי רביעי
 http://rhsbjv7k.tvclub.xyz/iptv/UFERDUQS58TBD3/12278/index.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="sport5stars" tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20Stars%20HD%20IL.png" group-title="ישראל", ספורט 5 סטארס גיבוי חמישי
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/12232/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/12232/index.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="sport5gold" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20GOLD%20IL.png" group-title="ישראל", ספורט 5 גולד
 http://cdn.admuspeh.my/8974/video.m3u8?token=mG6VMPVwTiTdcb2u
 #EXTINF:-1 tvg-chno="25" tvg-id="sport5gold" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20GOLD%20IL.png" group-title="ישראל", ספורט 5 גולד גיבוי ראשון
@@ -116,7 +116,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/12254/index.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="sport5gold" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20GOLD%20IL.png" group-title="ישראל", ספורט 5 גולד גיבוי רביעי
 http://rhsbjv7k.tvclub.xyz/iptv/UFERDUQS58TBD3/12254/index.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="sport5gold" tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20GOLD%20IL.png" group-title="ישראל", ספורט 5 גולד גיבוי חמישי
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/12254/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/12254/index.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="9035" tvg-logo="https://www.hot.net.il/UploadedImages/05_2021/5Sport4k_58.jpg" group-title="ישראל", ספורט 5 פור קיי
 http://rhsbjv7k.tvclub.xyz/iptv/MXPAXAU66DFHPR/16019/index.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="9035" tvg-logo="https://www.hot.net.il/UploadedImages/05_2021/5Sport4k_58.jpg" group-title="ישראל", ספורט 5 פור קיי גיבוי ראשון
@@ -132,7 +132,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/2340/index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="one1" tvg-logo="https://m3u.admuspeh.my/icon/ONE%20HD%20IL.png" group-title="ישראל", וואן 1 גיבוי רביעי
 http://rhsbjv7k.tvclub.xyz/iptv/UFERDUQS58TBD3/2340/index.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="one1" tvg-logo="https://m3u.admuspeh.my/icon/ONE%20HD%20IL.png" group-title="ישראל", וואן 1 גיבוי חמישי
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/2340/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2340/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="one2" tvg-logo="https://m3u.admuspeh.my/icon/ONE%202%20HD%20IL.png" group-title="ישראל", וואן 2
 http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2373/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="one2" tvg-logo="https://m3u.admuspeh.my/icon/ONE%202%20HD%20IL.png" group-title="ישראל", וואן 2 גיבוי ראשון
@@ -144,23 +144,23 @@ http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/12231/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="one2" tvg-logo="https://m3u.admuspeh.my/icon/ONE%202%20HD%20IL.png" group-title="ישראל", וואן 2 גיבוי רביעי
 http://rhsbjv7k.tvclub.xyz/iptv/UFERDUQS58TBD3/12231/index.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="one2" tvg-logo="https://m3u.admuspeh.my/icon/ONE%202%20HD%20IL.png" group-title="ישראל", וואן 2 גיבוי חמישי
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/2373/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2373/index.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="viva" tvg-logo="https://antifriz.tv/storage/images/channel_logos/9dca75af28edf66ea2611c4efd1500a4.png" group-title="ישראל", ויוה טלנובלות
 http://cdn.admuspeh.my/8526/video.m3u8?token=mG6VMPVwTiTdcb2u
 #EXTINF:-1 tvg-chno="18" tvg-id="vivaplus" tvg-logo="https://antifriz.tv/storage/images/channel_logos/00d96e97e681402555d4f5cd327d1a1b.png" group-title="ישראל", ויוה איסטנבול
 http://cdn.admuspeh.my/8372/video.m3u8?token=mG6VMPVwTiTdcb2u
 #EXTINF:-1 tvg-chno="31" tvg-id="vivapremium" tvg-logo="https://antifriz.tv/storage/images/channel_logos/915cd21fd982f50721f990f14e8faba9.png" group-title="ישראל", ויוה פרמיום
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/12226/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/12226/index.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="turkishdrama" tvg-logo="https://antifriz.tv/storage/images/channel_logos/ce58c51650e6fbea87f254c1015c6f6f.png" group-title="ישראל", ערוץ הדרמות הטורקיות פלוס
 http://cdn.admuspeh.my/8722/video.m3u8?token=mG6VMPVwTiTdcb2u
 #EXTINF:-1 tvg-chno="30" tvg-id="turkishdrama2" tvg-logo="https://antifriz.tv/storage/images/channel_logos/d1a474f91b463d415bdd319abbfdf7b0.png" group-title="ישראל", ערוץ הדרמות הטורקיות 2
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/14208/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/14208/index.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="turkishdrama3" tvg-logo="https://antifriz.tv/storage/images/channel_logos/082f38cad0b98798d036b82e0f5bf9f5.png" group-title="ישראל", ערוץ הדרמות הטורקיות 3
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/14220/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/14220/index.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="yamtihoni" tvg-logo="https://antifriz.tv/storage/images/channel_logos/c106807b0cc3b511840ea0ec2e804ca8.png" group-title="ישראל", הערוץ הים התיכוני
 http://cdn.admuspeh.my/8123/video.m3u8?token=mG6VMPVwTiTdcb2u
 #EXTINF:-1 tvg-chno="34" tvg-id="yamtihoniplus" tvg-logo="https://antifriz.tv/storage/images/channel_logos/929a0fa393a3f2a01005f7db2550a4ba.png" group-title="ישראל", הערוץ הים תיכוני פלוס
-http://rhsbjv7k.tvclub.xyz/iptv/2EA55L4SUE4RH4/12224/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/12224/index.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-id="skyf1" tvg-logo="https://cdn.epg.one/img/4576.png" group-title="ישראל", פורמולה 1 סקיי ספורט
 http://rhsbjv7k.tvclub.xyz/iptv/22R8F2UTVKMAYR/7342/index.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="f1official" tvg-logo="https://cdn.epg.one/img2/5088.png" group-title="ישראל", פורמולה 1 – הערוץ הרשמי
