@@ -154,4 +154,4 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/12224/ind
 #EXTINF:-1 tvg-chno="34" tvg-id="skyf1" tvg-logo="https://cdn.epg.one/img/4576.png" group-title="ישראל", פורמולה 1 סקיי ספורט
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/19105/index.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="f1official" tvg-logo="https://cdn.epg.one/img2/5088.png" group-title="ישראל", פורמולה 1 – הערוץ הרשמי
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/MYK55TUSLDLLYN/6071/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/6071/index.m3u8
